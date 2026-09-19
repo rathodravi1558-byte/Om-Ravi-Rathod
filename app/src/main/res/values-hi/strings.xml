@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मौसम</string>
+    <string name="developer_name">ओम रवि राठौड़</string>
+    <string name="developer_name_hindi">ओम रवि राठौड़</string>
+    <string name="developer_email">rathodravi1558@gmail.com</string>
+    <string name="developer_title_en">Android App Developer &amp; Creator</string>
+    <string name="developer_title_hi">एंड्रॉइड ऐप डेवलपर एवं निर्माता</string>
+    <string name="developer_contact_heading_en">Developer Contact Information</string>
+    <string name="developer_contact_heading_hi">डेवलपर संपर्क जानकारी</string>
+    <string name="developer_send_email_en">Send Email</string>
+    <string name="developer_send_email_hi">ईमेल भेजें</string>
+    <string name="developer_copy_email_en">Copy Email</string>
+    <string name="developer_copy_email_hi">ईमेल कॉपी करें</string>
+    <string name="voice_search_title">ध्वनि मौसम आदेश (Voice Command)</string>
+    <string name="voice_search_prompt">किसी शहर का नाम बोलें या कहें "दिल्ली में मौसम"</string>
+    <string name="voice_search_listening">स्थान का नाम सुन रहे हैं…</string>
+    <string name="voice_search_processing">मौसम की जानकारी खोजी जा रही है…</string>
+    <string name="voice_search_permission_needed">स्थान बोलने के लिए माइक्रोफ़ोन अनुमति आवश्यक है</string>
+    <string name="developer_signature">ओम</string>
+    <string name="developer_signature_label">हस्ताक्षर: ओम</string>
+    <string name="developer_created_tagline">Google AI Studio के साथ ओम रवि राठौड़ द्वारा निर्मित ऐप</string>
+    <string name="developer_youtube_handle">@RathodRavi-27w1</string>
+    <string name="developer_youtube_url">https://www.youtube.com/@RathodRavi-27w1</string>
+    <string name="developer_youtube_channel">यूट्यूब चैनल (YouTube Channel)</string>
+    <string name="menu_more_options">अधिक विकल्प</string>
+    <string name="weather_map_title">इंटरैक्टिव मौसम नक्शा (Weather Map)</string>
+    <string name="weather_map_subtitle">वर्षा राडार और तापमान थर्मल ओवरले</string>
+    <string name="weather_map_overlay_precipitation">वर्षा राडार (Precipitation)</string>
+    <string name="weather_map_overlay_temperature">तापमान हीटमैप (Temperature)</string>
+    <string name="weather_map_recenter">पुनः केंद्रित करें</string>
+    <string name="weather_map_expand">बड़ा नक्शा देखें</string>
+    <string name="weather_map_close">नक्शा बंद करें</string>
+    <string name="weather_map_user_location">वर्तमान स्थान</string>
+    <string name="weather_map_inspect_hint">मौसम देखने के लिए नक्शे पर कहीं भी टैप करें</string>
+    <string name="weather_map_locate_device">डिवाइस जीपीएस उपयोग करें</string>
+</resources>

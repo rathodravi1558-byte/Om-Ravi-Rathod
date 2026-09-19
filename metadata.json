@@ -1,0 +1,6 @@
+{
+  "name": "Weather",
+  "description": "Real-time weather with interactive radar and thermal heatmap, UV index sun safety recommendations, offline mode with Room database caching, voice command search, and 20-day forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
